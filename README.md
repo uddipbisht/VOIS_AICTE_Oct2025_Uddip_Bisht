@@ -44,7 +44,7 @@ This analysis delves into the data to answer several key questions:
     cd VOIS_AICTE_OCT2025_Uddip_Bisht
     ```
 3.  **Ensure you have the dataset** (`1730285881-Airbnb_Open_Data.xlsx`) in the same folder.
-4.  **Open and run the Jupyter Notebook** (`YourNotebookName.ipynb`) in an environment with the required libraries installed.
+4.  **Open and run the Jupyter Notebook** (`UDDIP_BISHT_AIRBNB_Hotel_Booking_Analysis.ipynb`) in an environment with the required libraries installed.
 
 ---
 
